@@ -36,13 +36,53 @@
               "description": "– histoire de la laïcité : la loi de 1905 est la conclusion de siècles de lutte entre les pouvoirs religieux et politiques en France. La laïcité n’est pas la négation des religions, elle organise les relations entre l’Etat et les religions ;\n– le principe de liberté de conscience : la laïcité garantit la liberté de conscience et l’égalité de tous les citoyens, quelles que soient leurs croyances ; la neutralité de l’État à l’égard des religions et le libre exercice des cultes (loi de 1905). La liberté de conscience est celle de croire, celle de ne pas croire et celle de ne plus croire, celle aussi de changer de croyance ou de religion (droit à l’apostasie et droit de se convertir). La liberté de conscience inclut le droit au blasphème. L’exercice de cette liberté peut être limité dans le respect des principes constitutionnels (ex. interdiction du prosélytisme abusif) ;\n– la place des religions et le rôle de l’Etat : principe de séparation des Eglises et de l’Etat, principe de libre organisation des cultes. Principe de neutralité : l’Etat protège et sécurise les lieux de culte et lutte contre les actes antireligieux. L’Etat est garant de la liberté religieuse y compris dans les lieux de privation de liberté. L’Etat punit la pression forte sur une personne de croire ou de ne pas croire ;\n– le principe de laïcité pour l’usager du service public : tous les usagers sont égaux devant le service public. Ils ont le droit d’exprimer leurs convictions religieuses dans la limite du respect de l’ordre public. Les usagers doivent s’abstenir de toute forme de prosélytisme. Le principe de laïcité interdit à quiconque de se prévaloir de ses croyances religieuses pour s’affranchir des règles communes (Voir Charte de la laïcité des usagers des services publics) ;\n– le principe de laïcité au travail : chacun a le droit d’avoir ses croyances ou convictions. Dans les institutions publiques, les agents sont soumis au principe de neutralité. Dans le secteur privé, la liberté de manifester sa religion peut toutefois être restreinte pour des impératifs d’hygiène, de sécurité ou si son exercice empêche le bon déroulement de l’activité de l’entreprise ;\n– le principe de laïcité à l’école publique : la laïcité impose des règles à tous les membres de la communauté scolaire afin de protéger la liberté de choix de chaque enfant et préserver le fonctionnement de l’école. Il est interdit de choisir les enseignements en fonction de ses croyances religieuses (Voir Charte de la laïcité à l’école)."
             }
           ]
-        },
+        }
 
       ]
     },
     {
       "name": "Le système institutionnel et politique",
-      "notions": []
+      "notions": [
+        {
+          "name": "Démocratie et droit de vote",
+          "connaissances": [
+            {
+              "name": "Connaître et comprendre les caractéristiques de notre démocratie",
+              "description": "– le principe d’Etat de droit : système dans lequel la loi est au-dessus de tous : elle s’applique à toutes les personnes y compris les autorités publiques. Cela garantit que les droits et libertés de chacun sont protégés ;\n– les trois pouvoirs : législatif, exécutif, autorité judiciaire ;\n– le rôle des trois pouvoirs et les principaux acteurs : faire les lois (députés et sénateurs), appliquer les lois (gouvernement), rendre la justice (les juges) ;\n– le principe de la séparation des pouvoirs et sa mise en œuvre : principe constitutionnel consacré par l’article 16 de la Déclaration des droits de l’homme et du citoyen qui établit un équilibre entre les pouvoirs : responsabilité du gouvernement devant le Parlement, pouvoirs du président de la République élu au suffrage universel direct, indépendance de la justice."
+            },
+            {
+              "name": "Connaître et comprendre le droit de vote et les élections",
+              "description": "– les conditions pour voter en France : avoir la nationalité française, être majeur, ne pas avoir été privé de ses droits civils et politiques suite à une condamnation ;\n– le principe de pluralité des partis : condition nécessaire de la démocratie."
+            }
+          ]
+        },
+        {
+          "name": "Organisation de la République française",
+          "connaissances": [
+            {
+              "name": "Connaître et comprendre le découpage administratif et institutionnel",
+              "description": "– le découpage administratif de la France : identifier l’organisation territoriale de l’Etat : préfectures de régions et préfectures de département ainsi que les niveaux de collectivités locales et leurs missions respectives : commune, département, région. Exemple : école primaire = commune ; lycée = région ;\n– les principales institutions politiques de la Ve République :\n• pouvoir exécutif : le président de la République, le gouvernement composé du Premier ministre et des ministres ;\n• pouvoir législatif : le Parlement composé de l’Assemblée nationale et du Sénat ;\n• pouvoir judicaire : les tribunaux (ordres judiciaire et administratif) ;\n• autres institutions : Conseil constitutionnel, Défenseur des droits, Banque de France."
+            },
+            {
+              "name": "Connaître et comprendre le fonctionnement démocratique",
+              "description": "– le rôle des acteurs politiques au niveau national et local : le président de la République, le Premier ministre, le maire ;\n– les différents types d’élections : présidentielles, législatives, européennes, locales ;\n– la durée des principaux mandats : président, députés, sénateurs, maires."
+            }
+          ]
+        },
+        {
+          "name": "L’Union européenne et ses institutions",
+          "connaissances": [
+            {
+              "name": "Connaître et comprendre les fondements de l’Union européenne",
+              "description": "– les principales étapes historiques et le nombre d’Etats membres ;\n– le drapeau et l’hymne de l’Union européenne."
+            },
+            {
+              "name": "Connaitre et comprendre le fonctionnement de l’Union européenne",
+              "description": "– les institutions européennes : Parlement européen, Conseil de l’Union européenne, Commission européenne ;\n– les principes essentiels de l’Union européenne : citoyenneté européenne, libre circulation, coopération économique ;\n– les conditions de vote et d’éligibilité des étrangers européens."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
