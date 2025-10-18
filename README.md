@@ -1,4 +1,4 @@
-# QCM - Préparation à la Citoyenneté Française
+# QCM - Préparation à l'examen civique en France  🇫🇷
 
 ## 📋 Description du projet
 
