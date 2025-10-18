@@ -83,6 +83,110 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Droits et devoirs",
+      "notions": [
+        {
+          "name": "Droits fondamentaux",
+          "connaissances": [
+            {
+              "name": "Connaitre les droits fondamentaux et leurs fondements",
+              "description": "– les droits et libertés individuels : les libertés individuelles permettent aux citoyens d’être maîtres de leurs mouvements, de leurs choix (liberté de circulation, liberté de mariage, liberté de divorce par exemple), de leurs opinions (liberté d’opinion, liberté de conscience, liberté d’expression), et de leurs croyances ;\n– les droits sociaux et économiques : les droits qui visent à assurer à chaque individu des conditions de vie dignes et équitables ;\n– les principales notions relatives aux droits fondamentaux : dignité humaine, intégrité physique et psychologique, citoyenneté, État de droit, démocratie, respect des droits de l’homme ;\n– les principaux textes garants des droits fondamentaux : la Constitution de la Ve République (1958), la Déclaration des droits de l’homme et du citoyen (1789), la Charte de l’environnement (2004)."
+            }
+          ]
+        },
+        {
+          "name": "Obligations et devoirs des personnes résidant en France",
+          "connaissances": [
+            {
+              "name": "Comprendre les obligations et devoirs des personnes résidant en France",
+              "description": "– des libertés individuelles encadrées : les libertés sont encadrées par la loi et limitées, en premier lieu par les libertés des autres, ensuite par la défense de l’ordre public qui concerne non seulement la sécurité, mais également la tranquillité, la salubrité (qui ne présente pas de danger pour l’hygiène, la santé et l’environnement), le respect de la dignité humaine, qui permettent à chacun de jouir de ses droits et de ses libertés ;\n– le respect des lois et les conséquences de leur non-respect : obligation de payer les impôts et les cotisations sociales...; rôle de la police et de la gendarmerie ; typologie des infractions ;\n– une attitude citoyenne favorisant la vie au sein de la collectivité nationale : contribuer au bien collectif, notamment par le travail, et au respect des règles communes, d’autrui et de l’environnement ;\n– la participation des citoyens français au fonctionnement des institutions publiques : voter, être juré dans un procès."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Histoire, géographie et culture",
+      "notions": [
+        {
+          "name":" Principales périodes et personnages historiques",
+          "connaissances": [
+            {
+              "name": "Connaître les repères historiques",
+              "description": "– les principales périodes historiques : la monarchie (jusqu’en 1789), la Révolution française (à partir de 1789, 1re République en 1792), l’empire de Napoléon et la création du Code civil (début du XIXe siècle), la constitution de l’empire colonial français et l’abolition de l’esclavage (1re moitié du XIXe siècle), l’installation de la République avec l’école laïque, gratuite et obligatoire (à partir de 1880) ;\n– les grandes étapes du XXe siècle dont les conflits mondiaux : Première Guerre mondiale (1914-1918), Seconde Guerre mondiale (1939-1945) : la Shoah, la Résistance (l’appel du 18 juin 1940 du Général de Gaulle devenu président de la République en 1958), droit de vote des femmes (1944), création de l’ONU (1945), création de la Communauté économique européenne (1957) ;\n– les principales étapes de la construction de la Ve République et du système politique actuel ainsi que les présidents de la République : Constitution de la Ve République, instauration du suffrage universel direct pour les élections présidentielles, décolonisation de l’empire colonial français en Asie et en Afrique (1950-1962), l’abolition de la peine de mort par le président François Mitterrand (1981), naissance de l’Union européenne (1992) et de l’euro (2002)."
+            }
+          ]
+        },
+        {
+          "name":"Territoires et géographie",
+          "connaissances": [
+            {
+              "name": "",
+              "description": "– Se repérer dans l’espace : connaître les fleuves français ; les principaux massifs montagneux ; nommer et localiser les 10 principales métropoles françaises ; les principaux ports ; les 6 régions les plus peuplées ; connaître les 5 Départements et Régions d’outre-mer-DROM et savoir qu’il existe d’autres territoires ultramarins ;\n– Connaître la situation géographique de la France dans le continent européen : connaître les États ayant des frontières avec la France ; connaître les mers et océans qui bordent la France ;\n– Savoir établir un lien entre géographie et démographie : savoir que la population française est d’environ 68 millions d’habitants en 2025 et qu’en France 9 personnes sur 10 habitent dans des aires urbaines ; savoir que la France est la 1ère destination touristique au monde et que les principales régions touristiques en France sont dans les grandes villes, sur les côtes (Côte d’Azur, littoral atlantique, Bretagne et Normandie) et dans les montagnes (Alpes et Pyrénées) ;\n– Savoir établir un lien entre géographie et économie : savoir que les principales activités économiques se situent à proximité des grandes villes et des axes de communication (autoroutes, voies ferrées)."
+            }
+          ]
+        },
+        {
+          "name":"Patrimoine français",
+          "connaissances": [
+            {
+              "name": "Connaître les repères culturels de la société française",
+              "description": "– les principaux monuments historiques et lieux emblématiques de la France ;\n– les artistes et auteurs français ;\n– les principaux plats de la gastronomie française ;\n– les principales fêtes célébrées en France et les traditions qui les accompagnent ;\n– le rayonnement de la langue française dans le monde : Organisation internationale de la Francophonie, nombre de personnes francophones (321 millions), 5e langue mondiale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vivre dans la société française",
+      "notions": [
+        {
+          "name":"S’installer et résider en France",
+          "connaissances": [
+            {
+              "name": "Connaître les démarches essentielles pour garantir son installation et sa résidence dans le respect de la loi",
+              "description": "– les démarches du quotidien : souscription à une assurance responsabilité civile, échange du permis de conduire, obligation de déclarer ses revenus, obligation d’effectuer un changement d’adresse ;\n– les démarches relatives au séjour en France : procédures de demande et renouvellement du titre de séjour ;\n– les démarches d’accès à la nationalité française : le principe d’assimilation, les procédures de déclaration ou de demande de naturalisation ;\n– les démarches relatives à la situation familiale : déclarer une naissance, un mariage, un divorce, un décès auprès des différentes institutions et organismes, connaître les démarches essentielles pour l’accès aux prestations familiales et sociales ;\n– les démarches relatives au logement : savoir identifier les différents acteurs de la recherche de logement, connaître et comprendre les droits et obligations d’un propriétaire, connaitre et comprendre les droits et les obligations d’un locataire."
+            }
+          ]
+        },
+        {
+          "name":"L’accès aux soins",
+          "connaissances": [
+            {
+              "name": "Connaître le parcours de santé",
+              "description": "– les différentes offres de soin (hôpitaux, cliniques, urgences, médecin traitant, spécialistes) ;\n– la prise en charge (assurance maladie, mutuelle) ;\n– les obligations vaccinales ;\n– les numéros d’urgence."
+            },
+            {
+              "name": "Connaître les droits du patient",
+              "description": "– le principe de libre choix du praticien dans le respect du bon fonctionnement du service en cas de prise en charge à l’hôpital ;\n– le principe de confidentialité : respect du secret médical ;\n– le droit à l’information."
+            }
+          ]
+        },
+        {
+          "name":"Travailler en France ",
+          "connaissances": [
+            {
+              "name": "Connaître et comprendre les principales notions du droit du travail",
+              "description": "– le cadre général : durée légale de travail, des congés, contrat, conditions de sécurité au travail, règlement intérieur, droit syndical, droits associés (formation, équivalence de diplôme, droit à la formation linguistique) ;\n– les démarches et les acteurs pour rechercher un emploi ;\n– les démarches et les acteurs pour entreprendre en France."
+            }
+          ]
+        },
+        {
+          "name":"Autorité parentale et système éducatif",
+          "connaissances": [
+            {
+              "name": "Connaître et comprendre la notion d’autorité parentale",
+              "description": "– les obligations et responsabilités des parents envers les enfants mineurs ;\n– le cadre légal de protection des enfants : droits des enfants au respect de leur intégrité physique et morale."
+            },
+            {
+              "name": "Connaître et comprendre le système éducatif",
+              "description": "– les grands principes : l’obligation de scolarité, durée de l’instruction obligatoire et l’interdiction de contester les enseignements ;\n– l’organisation du système scolaire : écoles maternelle, primaire, collège, lycée et enseignement supérieur ;\n– les obligations en tant que parent d’élève : l’obligation d’instruction et de respecter le règlement intérieur de l’école, l’accompagnement à la scolarité."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
