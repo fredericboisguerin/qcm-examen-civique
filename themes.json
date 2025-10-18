@@ -1,0 +1,48 @@
+{
+  "thematiques": [
+    {
+      "name": "Principes et valeurs de la République",
+      "notions": [
+        {
+          "name": "Devise et symboles de la République",
+          "connaissances": [
+            {
+              "name": "Connaitre et comprendre la République",
+              "description": "– un mode d’organisation des pouvoirs ;\n– unité et indivisibilité de la République – art. 1er de la Constitution « La France est une République indivisible, laïque,\ndémocratique et sociale » ;\n– la souveraineté nationale appartient au peuple – art. 3 de la Constitution « La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum »."
+            },
+            {
+              "name": "Connaître et comprendre la devise française : liberté",
+              "description": "– le sens de la liberté : respecter les autres dans leur intégrité et leur diversité, respecter la diversité des croyances et des convictions ;\n– les différents types de libertés individuelles et collectives : liberté de pensée, d’opinion, d’expression, de religion, de travail, de circulation, de réunion et d’association, de choix sexuels et de mariage (interdiction de la polygamie : principe et conséquences) ;\n– les différentes formes d’engagement dans la vie associative et locale : droit de créer et d’adhérer à une association, droit syndical."
+            },
+            {
+              "name": "Connaître et comprendre la devise française : égalité et fraternité",
+              "description": "– le sens de l’égalité : égalité des droits et des devoirs, égalité entre les femmes et les hommes, accès aux droits fondamentaux, égalité devant la loi ;\n• Respecter les droits d’autrui et accepter les différences : Lutte contre les discriminations, le racisme, l’antisémitisme et la haine anti-LGBT.\n– le sens de la fraternité : comprendre la valeur de fraternité comme la capacité à voir en autrui un semblable, malgré les différences. C’est pourquoi la fraternité républicaine est une fraternité civique, et non pas ethnique ou religieuse. Cette solidarité se décline sous différentes formes :\n• Collective : le principe de solidarité signifie que la Nation assure aux individus libres et égaux en droit une protection. Remplir ses obligations fiscales est un acte solidaire qui permet de financer les services publics au bénéfice de tous ; le principe de solidarité exige aussi que chaque citoyen doive défendre la Nation en cas de danger ;\n• Intergénérationnelle : le principe de solidarité signifie le soutien entre différentes générations (exemple : retraites)."
+            },
+            {
+              "name": "Connaître et comprendre les symboles républicains mentionnés par la Constitution et d’autres symboles coutumiers :",
+              "description": "– drapeau ;\n– hymne ;\n– devise ;\n– Marianne ;\n– fête nationale (14 juillet) ;\n– coq."
+            },
+            {
+              "name": "Savoir que le français est la langue nationale et officielle",
+              "description": "« Le français est la langue de la République française » (article 2\nde la Constitution)."
+            }
+          ]
+        },
+        {
+          "name": "Laïcité",
+          "connaissances": [
+            {
+              "name": "Connaître et comprendre le principe de laïcité",
+              "description": "– histoire de la laïcité : la loi de 1905 est la conclusion de siècles de lutte entre les pouvoirs religieux et politiques en France. La laïcité n’est pas la négation des religions, elle organise les relations entre l’Etat et les religions ;\n– le principe de liberté de conscience : la laïcité garantit la liberté de conscience et l’égalité de tous les citoyens, quelles que soient leurs croyances ; la neutralité de l’État à l’égard des religions et le libre exercice des cultes (loi de 1905). La liberté de conscience est celle de croire, celle de ne pas croire et celle de ne plus croire, celle aussi de changer de croyance ou de religion (droit à l’apostasie et droit de se convertir). La liberté de conscience inclut le droit au blasphème. L’exercice de cette liberté peut être limité dans le respect des principes constitutionnels (ex. interdiction du prosélytisme abusif) ;\n– la place des religions et le rôle de l’Etat : principe de séparation des Eglises et de l’Etat, principe de libre organisation des cultes. Principe de neutralité : l’Etat protège et sécurise les lieux de culte et lutte contre les actes antireligieux. L’Etat est garant de la liberté religieuse y compris dans les lieux de privation de liberté. L’Etat punit la pression forte sur une personne de croire ou de ne pas croire ;\n– le principe de laïcité pour l’usager du service public : tous les usagers sont égaux devant le service public. Ils ont le droit d’exprimer leurs convictions religieuses dans la limite du respect de l’ordre public. Les usagers doivent s’abstenir de toute forme de prosélytisme. Le principe de laïcité interdit à quiconque de se prévaloir de ses croyances religieuses pour s’affranchir des règles communes (Voir Charte de la laïcité des usagers des services publics) ;\n– le principe de laïcité au travail : chacun a le droit d’avoir ses croyances ou convictions. Dans les institutions publiques, les agents sont soumis au principe de neutralité. Dans le secteur privé, la liberté de manifester sa religion peut toutefois être restreinte pour des impératifs d’hygiène, de sécurité ou si son exercice empêche le bon déroulement de l’activité de l’entreprise ;\n– le principe de laïcité à l’école publique : la laïcité impose des règles à tous les membres de la communauté scolaire afin de protéger la liberté de choix de chaque enfant et préserver le fonctionnement de l’école. Il est interdit de choisir les enseignements en fonction de ses croyances religieuses (Voir Charte de la laïcité à l’école)."
+            }
+          ]
+        },
+
+      ]
+    },
+    {
+      "name": "Le système institutionnel et politique",
+      "notions": []
+    }
+  ]
+}
